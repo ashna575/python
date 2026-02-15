@@ -1,4 +1,4 @@
-a="i love coding interviews"
+a="i love coding interviews tgfkhgfvvvvvvvvvg"
 b=(a.split(" "))
 
 long=b[0]
